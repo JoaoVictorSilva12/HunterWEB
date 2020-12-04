@@ -1,10 +1,10 @@
 # About the project
 
-- [English] This app  has a pourpose of showing in practice the knowledge I obtained in HTML, Javascript, CSS, React and Node.JS. The front-end communicates with the back-end through Axios. The back-end is made with Express and is live on the Heroku platform. The front end, made in React.JS, talks a little about the technologies used in the project.
+- [English] This app  has a pourpose of showing in practice the knowledge I obtained in HTML, Javascript, CSS, React and Node.JS. The front-end communicates with the back-end through Axios. The back-end is made with Express and is live on the Heroku platform. The front end, made in React.JS, talks a little about the technologies used in the project. The website shows the technnologies utilized to built it up and their respective basic concepts.
 
 # Sobre o projeto
 
-- [Português] Esse app tem a finalidade de mostrar na prática os conhecimentos que obtive em HTML, Javascript, CSS, React e Node.JS. O front-end se comunica com o back-end através do Axios. O back-end é feito com o Express e está no ar pela plataforma Heroku. O front-end, feito em React.JS, fala um pouco sobre as tecnologias utilizadas no projeto.
+- [Português] Esse app tem a finalidade de mostrar na prática os conhecimentos que obtive em HTML, Javascript, CSS, React e Node.JS. O front-end se comunica com o back-end através do Axios. O back-end é feito com o Express e está no ar pela plataforma Heroku. O front-end, feito em React.JS, fala um pouco sobre as tecnologias utilizadas no projeto. O site mostra as tecnologias utilizadas em seu desenvolvimento e seus respectivos conceitos básicos.
 
 # Run the app
 
