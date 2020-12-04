@@ -1,0 +1,13 @@
+.sub{
+    margin: 40px;
+    color: rgb(221, 221, 221);
+}
+
+.sub article{
+    margin: 20px 0 20px 0;
+}
+
+.sub article p{
+    margin-left: 5px;
+    margin-top: 5px;
+}
